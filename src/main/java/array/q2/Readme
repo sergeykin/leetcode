@@ -1,0 +1,5 @@
+You are given an array prices where prices[i] is the price of a given stock on the ith day. [Вам дан массив цен, где price [i] - это цена данной акции в i-й день.]
+Find the maximum profit you can achieve. [Найдите максимальную прибыль, которую вы можете получить.] You may complete as many transactions as you like (i.e.,
+buy one and sell one share of the stock multiple times). [Вы можете совершить столько транзакций, сколько захотите (т.е. купить одну и продать одну акцию несколько раз).]
+Note: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).
+[Примечание: вы не можете участвовать в нескольких транзакциях одновременно (т. Е. Вы должны продать акции, прежде чем покупать снова).]
