@@ -1,0 +1,3 @@
+Students are asked to stand in non-decreasing order of heights for an annual photo. [Студенты должны стоять в порядке неубывания высоты для ежегодной фотографии.]
+Return the minimum number of students that must move in order for all students to be standing in non-decreasing order of height. [Возвратите минимальное количество учеников, которые должны двигаться, чтобы все ученики стояли в порядке неубывания роста.]
+Notice that when a group of students is selected they can reorder in any possible way between themselves and the non selected students remain on their seats. [Обратите внимание, что когда группа студентов выбрана, они могут переупорядочивать их любым возможным способом, а невыбранные студенты остаются на своих местах.]
